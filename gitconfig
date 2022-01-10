@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = bandama.teddy@gmail.com
+	name = Teddy Bandama
